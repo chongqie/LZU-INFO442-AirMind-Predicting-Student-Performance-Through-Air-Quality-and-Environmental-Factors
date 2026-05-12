@@ -8,8 +8,8 @@ In recent years, indoor air quality's impact on student cognitive function has b
 ![Figure 1. Impact of CO₂ Concentration on Cognitive Scores](./background.png)
 <p align="center"><b>Figure 1. Impact of CO₂ Concentration on Cognitive Scores</b></p>
 
-- Satish et al. (2012) found that when **CO₂ concentration exceeds 1000 ppm**, students' decision-making scores may decrease by up to <span style="color:orange; font-weight:bold">15%</span>;
-- Allen et al. (2016) showed CO₂ rising from 550 ppm to 1000 ppm reduces cognitive scores by ~<span style="color:orange; font-weight:bold">21%</span>;
+- Satish et al. (2012) found that when **CO₂ concentration exceeds 1000 ppm**, students' decision-making scores may decrease by up to 🟠<span style="color:orange; font-weight:bold">15%</span>🟠;
+- Allen et al. (2016) showed CO₂ rising from 550 ppm to 1000 ppm reduces cognitive scores by about 🟠<span style="color:orange; font-weight:bold">21%</span>🟠;
 - Shaughnessy et al. (2006) demonstrated PM2.5 and VOCs significantly increase attention lapses and task error rates.
 
 Despite these findings, classroom air regulation still relies on **teachers’ subjective judgment**, lacking real-time, data-driven decision support.
